@@ -1,0 +1,21 @@
+{
+  "name": "<%= name %>",
+  "version": "0.1.0",
+  "description": "<%= name %>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renebentes/generator-joomla.git"
+  },
+  "keywords": <%=keywords%>,
+  "author": <%=author%>,
+  "license": "<%= author %>",
+  "bugs": {
+    "url": "https://github.com/renebentes/generator-joomla/issues"
+  },
+  "homepage": "https://github.com/renebentes/generator-joomla#readme",
+  "private": true,
+  "engines": {
+    "node": ">=4",
+    "npm": ">=3"
+  }
+}
